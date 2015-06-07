@@ -44,6 +44,15 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 
 The user testing interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
 
+### Testing Setup
+
+* Cleaned desk, computer, screen
+* Removed extraneous files from computer destop 
+* Moved prototype file to desktop
+* Did a test run of prototype
+* Printed interview guide and place in clipboard
+* After each interview, reset all
+
 ### Interview Guide 
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
