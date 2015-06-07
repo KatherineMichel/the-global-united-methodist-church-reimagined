@@ -25,5 +25,9 @@ Live prayer
 UMC Discover
 ![](prototype/iphone-6-plus-screens-6.jpg)
 
+![](prototype/iphone-6-plus-screens-7.jpg)
+
+![](prototype/iphone-6-plus-screens-8.jpg)
+
 Photo credit:
 Original, license-free, [MorgueFile](http://www.morguefile.com/archive/display/924868) photo
