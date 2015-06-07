@@ -3,11 +3,11 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Project Management](project_management.md)
+* [Introduction](introduction.md)
 * [The Global United Methodist Church Re-Imagined :)](the_global_united_methodist_church_re-imagined.md)
 * [Research Sprint](research_sprint.md)
 * [Design Sprint](design_sprint.md)
 * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
-* [Introduction](introduction.md)
 
