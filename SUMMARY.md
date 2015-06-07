@@ -1,7 +1,6 @@
 # Summary
 
 * [GitHub README](README.md)
-* [Executive Summary](executive_summary.md)
 * [Introduction](introduction.md)
 * [Project Management](project_management.md)
 * [The Global United Methodist Church Re-Imagined :)](the_global_united_methodist_church_re-imagined.md)
