@@ -1,1 +1,1 @@
-# the-global-united-methodist-church-re-imagined
+# the-global-united-methodist-church-reimagined
