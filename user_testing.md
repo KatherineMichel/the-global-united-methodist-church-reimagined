@@ -49,6 +49,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 
 ### Testing Setup
 
+* Install and test run Hypercam (if used)
 * Cleaned desk, computer, screen
 * Removed extraneous files from computer destop 
 * Moved prototype file to desktop
