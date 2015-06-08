@@ -64,6 +64,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * User Discover
 * Lightning Demos
 * Church App Prototype
+* Task scenarios and follow-up probes
 * Debrief, feedback
 * Thank you, and goodbye
 
