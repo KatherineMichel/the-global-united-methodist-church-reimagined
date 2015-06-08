@@ -57,7 +57,14 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * Cleaned room
 * After each interview, reset testing setup, including prototype
 
-### Agenda 
+### High Level Agenda 
+* Welcome
+* Communication Audit Survey about local church marketing materials
+* User Discover
+* Lightning Demos
+* Church App Prototype
+* Debrief, feedback
+* Thank you, and goodbye
 
 ### Interview Guide 
 
