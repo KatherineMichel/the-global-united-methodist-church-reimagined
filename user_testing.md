@@ -50,7 +50,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * Removed extraneous files from computer destop 
 * Moved prototype file to desktop
 * Did a test run of prototype
-* Printed interview guide and place in clipboard
+* Printed interview guide and placed in clipboard
 * Cleaned room
 * After each interview, reset testing setup, including prototype
 
