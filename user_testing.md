@@ -57,6 +57,8 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * Cleaned room
 * After each interview, reset testing setup, including prototype
 
+### Agenda 
+
 ### Interview Guide 
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
