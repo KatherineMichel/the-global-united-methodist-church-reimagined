@@ -13,6 +13,9 @@ Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uplo
 Email Ad with link to [Recruitment Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form)
 ![](user-testing/user-testing-email.jpg)
 
+Follow Up Email for stragglers
+![](user-testing/user-testing-email-follow-up.jpg)
+
 ## Recruiting Screener
 I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to create the [Recruiting Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form). The results were automatically collected in a spreadsheet in Google Drive. 
 
@@ -23,9 +26,9 @@ I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to cre
 ### Phone Call
 After reviewing the Recruiter Screener responses automatically collected in a spreadsheet in Google Drive, I chose prospective user testing participants and called each one to confirm participation. 
 
-### Follow Up Email
+### Confirmation Email
 
-After the phone calls, I sent each confirmed participant a follow up email. In each email I included:
+After the phone calls, I sent each confirmed participant a confirmation email. In each email I included:
 
 * Date
 * Time
@@ -34,7 +37,7 @@ After the phone calls, I sent each confirmed participant a follow up email. In e
 * NDA (if needed)
 * A request that prospective users reply to confirm
 
-Example Follow Up Email
+Example Confirmation Email
 
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
