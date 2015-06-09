@@ -31,5 +31,7 @@ UMC Discover
 
 ![](prototype/iphone-6-plus-screens-9.jpg)
 
+![](prototype/iphone-6-plus-screens-10.jpg)
+
 Photo credit:
 Original, license-free, [MorgueFile](http://www.morguefile.com/archive/display/924868) photo
