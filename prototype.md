@@ -31,10 +31,10 @@ Bible study page, Prayer Warrior availability, live prayer
 Bible study page, groups search, bookmarked groups
 ![](prototype/iphone-6-plus-screens-8.jpg)
 
-Bible study page, marketplace homepage, merchant profile
+Main menu, marketplace homepage, merchant profile
 ![](prototype/iphone-6-plus-screens-9.jpg)
 
-Bible study page, UMC Discover, story detail
+Main menu, UMC Discover, story detail
 ![](prototype/iphone-6-plus-screens-10.jpg)
 
 Photo credit:
