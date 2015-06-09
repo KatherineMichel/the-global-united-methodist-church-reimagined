@@ -74,6 +74,16 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 ![](design-sprint/crazy-eights-7.jpg)
 
 #### Critique
+* Moved settings page to be before find friends and connect social accounts
+* Added a Bible study detail page
+* Placed Bible verse "ephemeral message"/share after Bible study detail page due to logic of flow (highlighting passage to share)
+* Added profile page to show what would look like with shared verse
+* Added ephemeral message set up page
+* Added Prayer Warriors availability page and moved live prayer after this
+* Inserted groups search here
+* Added bookmarked groups page, including groups context specific to the user testing participants
+* Switched back to main menu instead of Bible study page
+* Changed UMC Discover link to a context-specific one
 
 ### Prototype
 
