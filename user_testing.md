@@ -61,7 +61,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 ### High Level Agenda 
 * Welcome
 * Communication Audit Survey about local church marketing materials
-* User Discover
+* "User Discovery"
 * Lightning Demos
 * Church App Prototype
 * Task scenarios and follow-up probes
