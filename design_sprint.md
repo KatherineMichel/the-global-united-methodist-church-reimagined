@@ -37,9 +37,9 @@ See [Research Sprint](research_sprint.md) for research info and a lightning demo
 * Main menu
 * Profile, news/activity feed
 * Bible study, groups, live prayer
+* Ephemeral scripture messages/setup
 * Marketplace
 * Portal to United Methodist content
-* Calendar/ephemeral scripture messages
 
 #### User Story Divided into Parts
 
@@ -72,6 +72,8 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 ![](design-sprint/crazy-eights-6.jpg)
 
 ![](design-sprint/crazy-eights-7.jpg)
+
+#### Critique
 
 ### Prototype
 
