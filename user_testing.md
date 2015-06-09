@@ -52,8 +52,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * Cleaned desk, computer, screen
 * Removed extraneous files from computer destop 
 * Moved prototype file to desktop
-* Installed Hypercam
-* Did a test run of prototype while using Hypercam
+* Did a test run of prototype
 * Printed interview guide and placed in clipboard
 * Cleaned room
 * After each interview, reset testing setup, including prototype
