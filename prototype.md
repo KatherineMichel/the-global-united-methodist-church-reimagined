@@ -7,30 +7,34 @@ iPhone 6+, iPad, iMac
 
 Mobile App Screen Mockups (iPhone 6+)
 
-App homepage, sign up, connect social accounts
+App homepage, sign up, settings
 ![](prototype/iphone-6-plus-screens-1.jpg)
 
-Find friends, settings, profile pic upload
+Connect social accounts, find friends, profile pic upload
 ![](prototype/iphone-6-plus-screens-2.jpg)
 
-Main menu, profile page, notifications page
+Main menu, profile page, activity page
 ![](prototype/iphone-6-plus-screens-3.jpg)
 
-Bible verse, Bible verse share, posting Bible verse with message
+Profile page, Bible study page, Bible study detail
 ![](prototype/iphone-6-plus-screens-4.jpg)
 
-Live prayer
+Bible verse with photo background, Bible verse share, posting Bible verse with message
 ![](prototype/iphone-6-plus-screens-5.jpg)
 
-UMC Discover
+Profile page, Bible study page, ephemeral message set up
 ![](prototype/iphone-6-plus-screens-6.jpg)
 
+Bible study page, Prayer Warrior availability, live prayer
 ![](prototype/iphone-6-plus-screens-7.jpg)
 
+Bible study page, groups search, bookmarked groups
 ![](prototype/iphone-6-plus-screens-8.jpg)
 
+Bible study page, marketplace homepage, merchant profile
 ![](prototype/iphone-6-plus-screens-9.jpg)
 
+Bible study page, UMC Discover, story detail
 ![](prototype/iphone-6-plus-screens-10.jpg)
 
 Photo credit:
