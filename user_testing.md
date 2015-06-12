@@ -67,7 +67,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * Church App Prototype
 * Task scenarios and follow-up probes
 * Debrief, feedback
-* Thank you, and goodbye
+* Thank you and goodbye
 
 ### Interview Guide 
 
