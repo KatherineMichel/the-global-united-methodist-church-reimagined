@@ -7,4 +7,5 @@
 * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
+* Research Sprint
 
