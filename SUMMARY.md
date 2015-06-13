@@ -8,5 +8,5 @@
 * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
-* Lightning Demos
+* [Lightning Demos](lightning_demos.md)
 
