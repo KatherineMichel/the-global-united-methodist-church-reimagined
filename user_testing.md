@@ -61,6 +61,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * After each interview, reset testing setup, including prototype
 
 ### High Level Agenda 
+
 * Welcome
 * Communication Audit Survey about local church marketing materials
 * "User Discovery"
