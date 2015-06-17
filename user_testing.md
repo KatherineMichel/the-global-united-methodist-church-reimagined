@@ -38,6 +38,7 @@ After the phone calls, I sent each confirmed participant a confirmation email. I
 * A request that prospective users reply to confirm
 
 Example Confirmation Email
+![](user-testing/user-testing-confirmation-email.jpg)
 
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
 
