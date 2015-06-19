@@ -1,11 +1,11 @@
 # Prototype
 
+Prototype as [PowerPoint doc](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing)
+
 ## Global United Methodist Church Mobile Presence Re-Imagined :)
 
 Church App on iPhone 6+, iPad, iMac
 ![](prototype/iphone-6-plus-ipad-imac.png)
-
-Prototype as [PowerPoint doc](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing)
 
 Mobile App Screen Mockups (iPhone 6+)
 
