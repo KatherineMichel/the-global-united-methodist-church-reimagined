@@ -61,6 +61,7 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 * Removed extraneous files from computer destop 
 * Moved prototype file to desktop
 * Did a test run of prototype
+* Opened lightning demo and mobile app use case links in a browser
 * Printed interview guide and placed in clipboard
 * Cleaned room
 * After each interview, reset testing setup, including prototype
