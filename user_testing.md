@@ -67,6 +67,8 @@ The user testing interviews would be done using the [Prototype](prototype.md) th
 
 ### High Level Agenda 
 
+High Level Agenda and Interview Guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing)
+
 * Welcome
 * Communication Audit Survey about local church marketing materials
 * "User Discovery"
