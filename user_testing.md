@@ -1,5 +1,7 @@
 # User Testing
 
+![](user-testing/conducting-user-testing.jpg)
+
 ## User Recruiting Process
 
 ## Recruiting Screener Worksheet
