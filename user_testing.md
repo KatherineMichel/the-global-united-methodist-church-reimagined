@@ -99,6 +99,8 @@ Information sheet about Dora North Circuit, Zimbabwe
 
 ![](user-testing/interview-worksheet-6.jpg)
 
+Article Benefits of the Chabadza Partnerships Between the Great Plains Conference – Wichita West District & the Zimbabwe East Conference – Mutasa Nyanga District
+
 ### User Testing Summary Report
 
 ## Metrics
