@@ -35,7 +35,7 @@ See [Research Sprint](research_sprint.md) for research info and a lightning demo
 * Tour (optional)
 * Settings
 * Main menu
-* Profile, news/activity feed
+* Profile, news/activity feed, geo-location
 * Bible study, groups, live prayer
 * Ephemeral scripture messages/setup
 * Marketplace
