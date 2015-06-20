@@ -16,19 +16,19 @@ Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. T
 A few slides from the [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world) slidedeck, by Benedict Evans of A16Z: 
 
 "The unconnected are shrinking"
-![](research-sprint/unconnected-are-shrinking.png)
+![](software-and-mobile-eating-the-world-global-reorganization/unconnected-are-shrinking.png)
 
 Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
-![](research-sprint/another-one-billion-online.png)
+![](software-and-mobile-eating-the-world-global-reorganization/another-one-billion-online.png)
 
 "By 2020 80% of the adults on earth will have a smartphone."
-![](research-sprint/by-2020-80-percent-of-adults.png)
+![](software-and-mobile-eating-the-world-global-reorganization/by-2020-80-percent-of-adults.png)
 
 "The smartphone industry dwarfs PCs"
-![](research-sprint/smartphone-industry-dwarfs-pcs.png)
+![](software-and-mobile-eating-the-world-global-reorganization/smartphone-industry-dwarfs-pcs.png)
 
 "More time is spent in mobile apps than on all of the web"
-![](research-sprint/more-time-spent-in-mobile-apps.png)
+![](software-and-mobile-eating-the-world-global-reorganization/more-time-spent-in-mobile-apps.png)
 
 ## Software is Reorganizing the World
 Not only are "Software and Mobile Eating the World," but "communities" of people are reorganizing online in the "cloud," as explained by Balaji Srinivasan ([@balajis](https://twitter.com/balajis)) of A16Z in the article [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations)... 
