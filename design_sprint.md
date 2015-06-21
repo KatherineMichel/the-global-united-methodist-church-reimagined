@@ -54,7 +54,10 @@ User Story 3
 
 ### Mind map
 
-![](design-sprint/mind-map.jpg)
+![](design-sprint/mindmap.jpg)
+
+Mindmap cleaned up
+![](design-sprint/mindmap-cleaned-up.jpg)
 
 ### Storyboard
 What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
