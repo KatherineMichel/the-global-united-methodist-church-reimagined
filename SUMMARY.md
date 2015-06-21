@@ -8,8 +8,8 @@
 * [Lightning Demos](lightning_demos.md)
 * [Design Sprint](design_sprint.md)
 * [Prototype](prototype.md)
+* [Use Case and Personas](use_case_and_personas.md)
 * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
-* [Use Case and Personas](use_case_and_personas.md)
 
