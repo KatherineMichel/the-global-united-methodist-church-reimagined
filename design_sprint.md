@@ -56,7 +56,7 @@ User Story 3
 
 ![](design-sprint/mindmap.jpg)
 
-Mindmap cleaned up
+Mindmap cleaned up using Google Drawing
 ![](design-sprint/mindmap-cleaned-up.jpg)
 
 ### Storyboard
