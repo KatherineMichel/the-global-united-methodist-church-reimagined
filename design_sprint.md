@@ -23,9 +23,9 @@ I did most of the design work alone, and facilitated select problem solving grou
 
 ## Design Sprint Process
 
-### Research Sprint and Lightning Demo
+### Research Sprint and Lightning Demos
 
-See also [Research Sprint](research_sprint.md), [Lightning Demos](lightning_demos.md). 
+See also [Research Sprint](research_sprint.md), [Software and Mobile Eating the World, Global Reorganization](software_and_mobile_eating_the_world,_global_reorganization.md), and [Lightning Demos](lightning_demos.md). 
 
 ### User Story
 
