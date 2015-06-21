@@ -11,4 +11,5 @@
 * [Use Cases and Personas](use_cases_and_personas.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
+* User Testing
 
