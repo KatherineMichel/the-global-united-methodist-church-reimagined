@@ -107,14 +107,3 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 ![](user-testing/interview-worksheet-6.jpg)
 
 ### User Testing Summary Report
-
-## Metrics
-
-### HEART/Goals-Signals-Metrics Framework
-
-Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product) chart from Google Ventures
-
-![](user-testing/heart-goals-signals-metrics.jpg)
-
-
-
