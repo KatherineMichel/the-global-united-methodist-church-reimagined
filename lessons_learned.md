@@ -5,4 +5,5 @@
 * Although GV specifies to call prospective participants on the phone, I found that in an informal situation where I am already familiar with the prospective participants, email or even facebook messaging worked better for ensuring contact (ex. if person has given home phone number, but is not at home regularly)
 * If needed, make a effort to recruit a diverse group of prospective participants; only women signed up to be participants in my user testing for this project
 * Use language that most people will understand; for example, not everyone understands what the word "ephemeral" means
-
+* In order to be flexible with scheduling, I planned to do user testing in room off of the office, in case someone happened to be working in the office at the time; the room off the office is not usually air conditioned, and though I felt okay, I quickly learned that some people have a lower tolerance for warmer temp
+* I hand wrote some notes; I am a fast writer, but could have been better to have transcribed from a recording 
