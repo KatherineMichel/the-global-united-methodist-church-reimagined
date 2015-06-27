@@ -7,3 +7,4 @@
 * Use language that most people will understand; for example, not everyone understands what the word "ephemeral" means
 * In order to be flexible with scheduling, I planned to do user testing in room off of the office, in case someone happened to be working in the office at the time; the room off the office is not usually air conditioned, and though I felt okay, I quickly learned that some people have a lower tolerance for warmer temp
 * I hand wrote some notes; I am a fast writer, but could have been better to have transcribed from a recording 
+* I found that during the user testing, there were a few questions that I ended up feeling did not fit into the natural flow of questions, and spontaneously chose to omit them
