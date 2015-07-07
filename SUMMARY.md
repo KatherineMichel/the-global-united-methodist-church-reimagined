@@ -9,8 +9,8 @@
    * [Lightning Demos](lightning_demos.md)
 * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
+   * [User Testing](user_testing.md)
    * x
-* [User Testing](user_testing.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
 
