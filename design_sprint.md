@@ -39,7 +39,7 @@ See also [Research Sprint](research_sprint.md), [Software and Mobile Eating the 
 * Bible study, groups, live prayer
 * Ephemeral scripture messages/setup
 * Marketplace (e-shop front, crowdfunding)
-* Discover (portal to United Methodist content
+* Discover (portal to United Methodist content)
 
 #### User Story Divided into Parts
 
