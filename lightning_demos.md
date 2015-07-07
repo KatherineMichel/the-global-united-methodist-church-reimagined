@@ -13,7 +13,8 @@ Negatives
 ![](lightning-demos/lifechurch-model.jpg)
 
 Positives
-* Takes advantage of growing global shift to Smartphones, including in developing countries where UMC membership is skyrocketing 
+* Through mobile app, taking advantage of growing global shift to Smartphones, including in developing countries where UMC membership is skyrocketing 
+* Using info-tainment as a marketing tool that directs potential users to LifeChurch
 * Fully leveraged network effect based on power law
 
 Negatives
