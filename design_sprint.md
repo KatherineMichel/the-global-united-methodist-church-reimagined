@@ -38,7 +38,7 @@ See also [Research Sprint](research_sprint.md), [Software and Mobile Eating the 
 * Profile, news/activity feed, geo-location
 * Bible study, groups, live prayer
 * Ephemeral scripture messages/setup
-* Marketplace
+* Marketplace (shop front, crowdfunding)
 * Portal to United Methodist content
 
 #### User Story Divided into Parts
