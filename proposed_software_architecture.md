@@ -10,8 +10,8 @@ The global United Methodist Church currently uses [Microsoft's ASP (Active Serve
 
 #### Platforms
 
-##### iOS
+#### iOS
 
-##### Android
+#### Android
 
 ### Git
