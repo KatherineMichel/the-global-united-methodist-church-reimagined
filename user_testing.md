@@ -104,3 +104,5 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 ![](user-testing/interview-worksheet-6.jpg)
 
 ### User Testing Summary Report
+
+### Thank You Email with Optional Feedback Survey
