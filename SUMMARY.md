@@ -11,6 +11,6 @@
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
    * x
-* [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
+* [Pitch](pitch.md)
 
