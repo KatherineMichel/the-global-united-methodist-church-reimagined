@@ -11,6 +11,6 @@
    * [Prototype](prototype.md)
    * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
-* [Proposed Architecture](proposed_architecture.md)
+* [Proposed Software Architecture](proposed_software_architecture.md)
 * [Lessons Learned](lessons_learned.md)
 
