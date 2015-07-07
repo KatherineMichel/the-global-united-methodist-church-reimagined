@@ -16,4 +16,4 @@ The global United Methodist Church currently uses [Microsoft's ASP (Active Serve
 
 #### Android
 
-### Git
+### Git Version Control/Staging
