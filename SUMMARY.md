@@ -8,8 +8,8 @@
    * [Google Trends](google_trends.md)
    * [Lightning Demos](lightning_demos.md)
 * [Design Sprint](design_sprint.md)
+   * [Prototype](prototype.md)
    * x
-* [Prototype](prototype.md)
 * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
