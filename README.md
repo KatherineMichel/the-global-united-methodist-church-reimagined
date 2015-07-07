@@ -1,4 +1,4 @@
-# the-global-united-methodist-church-reimagined
+# The Global United Methodist Church Reimagined
 
 A GitBook Documenting a Research and Design Sprint: 
 <br> 
