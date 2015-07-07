@@ -1,4 +1,4 @@
-# The Global United Methodist Church Reimagined
+# Introduction
 
 ## Research and Design Sprint
 
