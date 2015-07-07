@@ -12,4 +12,5 @@
    * [User Testing](user_testing.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
+* Proposed Architecture
 
