@@ -107,6 +107,8 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 
 #### Participant Information Summary Table
 
+#### Participant Schedule Table
+
 #### Participant Data Summary Table
 
 ### Thank You Email with Optional Feedback Survey
