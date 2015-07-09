@@ -122,4 +122,8 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 
 #### Participant Data Summary Table
 
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+| -- | -- | -- | -- |
+| Question | | | | | |
+
 ### Thank You Email with Optional Feedback Survey
