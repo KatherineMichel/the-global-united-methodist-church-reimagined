@@ -120,8 +120,6 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 | Do you have website/app admin experience? | No  | No  | No  | No | No |
 | What would be the most convenient time for you take part in a 30 minute (approximately)  user testing session? | Afternoon, Evening  | Afternoon  | Anytime  | Afternoon | Weekend |
 
-#### Participant Schedule Table
-
 #### Participant Data Summary Table
 
 ### Thank You Email with Optional Feedback Survey
