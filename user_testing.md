@@ -107,6 +107,16 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 
 #### Participant Information Summary Table
 
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+| -- | -- | -- | -- |
+| Gender | Female | Female | Female |Female | Female | 
+| Age | 76 | 66 | 61 | 64 | 62 | 
+| Do you work in tech or are a tech expert of some type? | No  | No  | No  | No | No | 
+| Do you currently attend a church and/or read the Bible? (This can be any church that uses the Bible.) | Yes  | Yes  | Yes  | Yes | Yes | 
+| Are you unaffiliated with a church, but interested in Christian resources via web and/or mobile? | No  | No  | No  | No | No |
+| Sell fairtrade/sustainable goods | No  | No  | No  | No | No |
+| Website/app admin experience? | No  | No  | No  | No | No |
+
 #### Participant Schedule Table
 
 #### Participant Data Summary Table
