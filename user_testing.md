@@ -118,6 +118,7 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 | Do you sell goods that promote fair-trade, sustainability?  | No  | No  | No  | No | No |
 | Are you sometimes in need of/willing to offer spiritual guidance/a helping hand and willing to receive/offer this virtually? | Yes  | Yes  | Yes  | Yes | Yes | 
 | Do you have website/app admin experience? | No  | No  | No  | No | No |
+| What would be the most convenient time for you take part in a 30 minute (approximately)  user testing session? | Afternoon, Evening  | Afternoon  | Anytime  | Afternoon | Weekend |
 
 #### Participant Schedule Table
 
