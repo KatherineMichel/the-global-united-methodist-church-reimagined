@@ -151,7 +151,6 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 | What do you think of this? Under what circumstance would you use this? Why?  |  |  |  |  |  |
 | Which parts of it do you like? Is there anything you dislike about this?  |  |  |  |  |  |
 | 3 wishes: If you had 3 wishes to make this better, what would they be? |  |  |  |  |  |
-
 | Identification: Who do you think would use something like this? Who wouldn’t?   |  |  |  |  |  |
 | Outsider perspective: How would you describe something like this to someone who hasn’t used it before? What advice would you give to someone trying it?   |  |  |  |  |  |
 | Projection: What do you think would happen if… ? What questions does it raise? What are the pros/cons? |  |  |  |  |  |
