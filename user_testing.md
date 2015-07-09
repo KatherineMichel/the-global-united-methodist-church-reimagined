@@ -122,8 +122,38 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 
 #### Participant Data Summary Table
 
+##### Discovery Questions
+
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Question | | | | | |
+| Some people have very negative feelings about integrating new technology and religion. How do you feel about it? | Neutral | Neutral | Neutral | Neutral | Neutral |
+| Under what circumstance do you use the internet as part of your worship habits? |  |  |  |  |  |
+| How effective do you think that is? |  |  |  |  |  |
+
+##### Lightning Demos
+United Methodist Church (www.umc.org)
+LifeChurch Bible App (www.bible.com)
+Snapchat (www.snapchat.org)
+Crowdfunding and marketplace apps (www.kickstarter.com)
+
+##### Lightning Demo Questions
+
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+| -- | -- | -- | -- |
+| Have you ever used any of these products? |  |  |  |  |  |
+| What do you like or not like? |  |  |  |  |  |
+| What types of people do you think these products seem designed for? |  |  |  |  |  |
+
+##### Debrief Questions
+
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+| -- | -- | -- | -- |
+| What do you think of this? Under what circumstance would you use this? Why?  |  |  |  |  |  |
+| Which parts of it do you like? Is there anything you dislike about this?  |  |  |  |  |  |
+| 3 wishes: If you had 3 wishes to make this better, what would they be? |  |  |  |  |  |
+
+| Identification: Who do you think would use something like this? Who wouldn’t?   |  |  |  |  |  |
+| Outsider perspective: How would you describe something like this to someone who hasn’t used it before? What advice would you give to someone trying it?   |  |  |  |  |  |
+| Projection: What do you think would happen if… ? What questions does it raise? What are the pros/cons? |  |  |  |  |  |
 
 ### Thank You Email with Optional Feedback Survey
