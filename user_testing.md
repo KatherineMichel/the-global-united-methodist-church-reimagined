@@ -140,7 +140,7 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Have you ever used any of these products? |  |  |  |  |  |
+| Have you ever used any of these products? | Had not heard of any of the lightning demo products |  |  |  |  |
 | What do you like or not like? |  |  |  |  |  |
 | What types of people do you think these products seem designed for? |  |  |  |  |  |
 
@@ -150,9 +150,9 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 | -- | -- | -- | -- |
 | What do you think of this? Under what circumstance would you use this? Why?  |  |  |  |  |  |
 | Which parts of it do you like? Is there anything you dislike about this?  |  |  |  |  |  |
-| 3 wishes: If you had 3 wishes to make this better, what would they be? |  |  |  |  |  |
-| Identification: Who do you think would use something like this? Who wouldn’t?   |  |  |  |  |  |
-| Outsider perspective: How would you describe something like this to someone who hasn’t used it before? What advice would you give to someone trying it?   |  |  |  |  |  |
-| Projection: What do you think would happen if… ? What questions does it raise? What are the pros/cons? |  |  |  |  |  |
+| If you had 3 wishes to make this better, what would they be? | No answer given | No answer given | No answer given | No answer given | No answer given |
+| Identification: Who do you think would use something like this? Who wouldn’t?   | Leaders networking, disaster relief, people finding one another for special projects |  |  |  |  |
+| Outsider perspective: How would you describe something like this to someone who hasn’t used it before? What advice would you give to someone trying it?   |  | "Church at your fingertips" |  |  |  |
+| Projection: What do you think would happen if… ? What questions does it raise? What are the pros/cons? | Con: reluctance to try it |  |  |  |  |
 
 ### Thank You Email with Optional Feedback Survey
