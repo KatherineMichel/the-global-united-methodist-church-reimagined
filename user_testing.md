@@ -126,8 +126,8 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Some people have very negative feelings about integrating new technology and religion. How do you feel about it? | Says people have negative thoughts about anything new, but tech can be used effectively in combination with religion; But does not think people should worship alone; says people come to church for socializing/fellowship | Neutral | Thinks can be overused, for instance, says worship via tech cannot take place of feeling the spirit in person; does not think people should watch church on their phone | Neutral | Neutral |
-| Under what circumstance do you use the internet as part of your worship habits? | Has mobile phone, not smartphone; has tablet, but does not use; does not like to be in front of computer; uses tech for a special reason, but not as a habit (ex. playing DVD in Sunday School) |  | Receives scripture devotions daily by email and weekly UMC and non-UMC religious newsletters by email |  |  |
+| Some people have very negative feelings about integrating new technology and religion. How do you feel about it? | Says people have negative thoughts about anything new, but tech can be used effectively in combination with religion; But does not think people should worship alone; says people come to church for socializing/fellowship | Neutral | Thinks can be overused, for instance, says worship via tech cannot take place of feeling the spirit in person; does not think people should watch church on their phone | Says as tech advances, it allows us to do more things; if it can benefit worship, then it should be used; the church should change with the times; if that's the way that people communicate, that is also how they will become aware of what you are doing | Neutral |
+| Under what circumstance do you use the internet as part of your worship habits? | Has mobile phone, not smartphone; has tablet, but does not use; does not like to be in front of computer; uses tech for a special reason, but not as a habit (ex. playing DVD in Sunday School) |  | Receives scripture devotions daily by email and weekly UMC and non-UMC religious newsletters by email |  | Does use tech much with religion; does look at PP UMC Facebook page; sometimes sees friends/family post about religion; would use tech + religion more if there were a community/network of people |
 | How effective do you think that is? |  |  |  |  |  |
 
 ##### Lightning Demos
@@ -142,7 +142,7 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 | -- | -- | -- | -- |
 | Do you use the UMC website? | When has specific reason | When has specific reason | When has specific reason, for example, to find list for UMC health kits) | When has a specific reason for example, to find ways to enhance worship, small-membership churches, outreach/growing church resources | When has specific reason |
 | Have you ever used any of the other lightning demo products (Bible App, Snapchat, Crowdfunding)? | Had not heard of any of them |  | Had heard of Snapchat, LifeChurch, crowdfunding, but not used | Had heard of LifeChurch, but not used or seen any LifeChurch social media posts from others; had not heard of other products |  |
-| What types of people do you think these products seem designed for? | People who enjoy something new, experimentation; people comfortable with tech |  | Wide variety, such as retirees |  |  |
+| What types of people do you think these products seem designed for? | People who enjoy something new, experimentation; people comfortable with tech |  | Wide variety, such as retirees | Anyone, just need to have an interest |  |
 
 ##### Debrief Questions
 
