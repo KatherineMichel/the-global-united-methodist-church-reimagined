@@ -11,6 +11,7 @@
    * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
    * [User Testing Summary Report](user_testing_summary_report.md)
+   * [Survey](survey.md)
 * [Pitch](pitch.md)
    * [Personas and Use Cases](personas_and_use_cases.md)
 * [Proposed Software Architecture](proposed_software_architecture.md)
