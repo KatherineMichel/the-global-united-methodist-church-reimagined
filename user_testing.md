@@ -140,19 +140,19 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Have you ever used any of these products? | Had not heard of any of the lightning demo products |  |  |  |  |
-| What do you like or not like? |  |  |  |  |  |
+| Do you use the UMC website? | When has specific reason | When has specific reason | When has specific reason | When has specific reason | When has specific reason |
+| Have you ever used any of the other lightning demo products (Bible App, Snapchat, Crowdfunding)? | Had not heard of any of them |  |  |  |  |
 | What types of people do you think these products seem designed for? |  |  |  |  |  |
 
 ##### Debrief Questions
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| What do you think of this? Under what circumstance would you use this? Why?  |  |  | "In love with it"... would use it, but not social media part |  |  |
-| Which parts of it do you like? Is there anything you dislike about this?  |  |  | Not crazy about social media part |  |  |
+| What do you think of this? Under what circumstance would you use this? Why?  |  |  | "In love with it," would use |  |  |
+| Which parts of it do you like? Is there anything you dislike about this?  |  |  | Would not use social media part |  |  |
 | If you had 3 wishes to make this better, what would they be? | No answer given | No answer given | No answer given | No answer given | No answer given |
-| Who do you think would use something like this? Who wouldn’t?   | Leaders networking, disaster relief, people finding one another for special projects |  | People might want/need instructions |  |  |
+| Who do you think would use something like this? Who wouldn’t?   | Leaders networking, disaster relief, people finding one another for special projects |  | |  |  |
 | How would you describe something like this to someone who hasn’t used it before? What advice would you give to someone trying it?   | General description | "Church at your fingertips" | General description  | General description  | General description |
-| What do you think would happen if... ? What questions does it raise? What are the pros/cons? | Con: reluctance to try it |  | People who don't want to use it just don't have to; does not think would have negative effect on aattendance |  |  |
+| What do you think would happen if... ? What questions does it raise? What are the pros/cons? | Con: reluctance to try it |  | People who don't want to use it just don't have to; people might want/need instructions; does not think would have negative effect on aattendance |  |  |
 
 ### Thank You Email with Optional Feedback Survey
