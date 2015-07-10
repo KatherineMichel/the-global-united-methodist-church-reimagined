@@ -126,8 +126,8 @@ Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Some people have very negative feelings about integrating new technology and religion. How do you feel about it? | Neutral | Neutral | Neutral | Neutral | Neutral |
-| Under what circumstance do you use the internet as part of your worship habits? |  |  |  |  |  |
+| Some people have very negative feelings about integrating new technology and religion. How do you feel about it? | Neutral | Neutral | Thinks can be overused, for instance, says worship via tech cannot take place of feeling the spirit in person | Neutral | Neutral |
+| Under what circumstance do you use the internet as part of your worship habits? |  |  | Receives scripture devotions daily by email and weekly UMC and non-UMC religious newsletters |  |  |
 | How effective do you think that is? |  |  |  |  |  |
 
 ##### Lightning Demos
