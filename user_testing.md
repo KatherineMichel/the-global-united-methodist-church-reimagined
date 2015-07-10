@@ -140,7 +140,7 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Do you use the UMC website? | When has specific reason | When has specific reason | When has specific reason (example given: UMC find list for health kits) | When has specific reason | When has specific reason |
+| Do you use the UMC website? | When has specific reason | When has specific reason | When has specific reason (example given: find list for UMC health kits) | When has specific reason | When has specific reason |
 | Have you ever used any of the other lightning demo products (Bible App, Snapchat, Crowdfunding)? | Had not heard of any of them |  | Has heard of Snapchat, LifeChurch, crowdfunding, but not used |  |  |
 | What types of people do you think these products seem designed for? |  |  | Wide variety, such as retirees |  |  |
 
@@ -151,8 +151,8 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 | What do you think of this? Under what circumstance would you use this? Why?  |  |  | "In love with it," would use |  |  |
 | Which parts of it do you like? |  | Marketplace | Prayer Warriors, Marketplace (sitting around, would want to use for 5 minutes), church geo-location, daily scripture messages, Bible study |  |  |
 | Is there anything you dislike about this?/If you had 3 wishes to make this better, what would they be? | No answer given | No answer given | Would not use social media part | No answer given | No answer given |
-| Who do you think would use something like this? Who wouldn’t?   | Leaders networking, disaster relief, people finding one another for special projects |  | Disaster relief, scripture reading, General Conference report updates |  |  |
+| Who do you think would use something like this? Who wouldn’t?   | Leaders networking, disaster relief (to find out what kinds of things the people in the affected area need), people finding one another for special projects |  | Disaster relief, scripture reading, General Conference report updates |  |  |
 | How would you describe something like this to someone who hasn’t used it before? What advice would you give to someone trying it?   | General description | "Church at your fingertips" | General description  | General description  | General description |
-| What do you think would happen if... ? What questions does it raise? What are the pros/cons? | Con: reluctance to try it |  | People who don't want to use it just don't have to; people might want/need instructions; does not think would have negative effect on attendance |  |  |
+| What do you think would happen if... ? What questions does it raise? What are the pros/cons? | Con: reluctance to try it, mentioned older church members who do not use internet at all |  | People who don't want to use it just don't have to; people might want/need instructions; does not think would have negative effect on attendance |  |  |
 
 ### Thank You Email with Optional Feedback Survey
