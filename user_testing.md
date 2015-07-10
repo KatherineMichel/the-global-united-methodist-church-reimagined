@@ -140,7 +140,7 @@ Crowdfunding and marketplace apps (www.kickstarter.com)
 
 |  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
 | -- | -- | -- | -- |
-| Do you use the UMC website? | When has specific reason | When has specific reason | When has specific reason | When has specific reason | When has specific reason |
+| Do you use the UMC website? | When has specific reason | When has specific reason | When has specific reason (example given: UMC find list for health kits) | When has specific reason | When has specific reason |
 | Have you ever used any of the other lightning demo products (Bible App, Snapchat, Crowdfunding)? | Had not heard of any of them |  | Has heard of Snapchat, LifeChurch, crowdfunding, but not used |  |  |
 | What types of people do you think these products seem designed for? |  |  | Wide variety, such as retirees |  |  |
 
