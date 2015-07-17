@@ -1,6 +1,6 @@
 # Summary
 
-* [GitHub README](README.md)
+* [About](README.md)
 * [Introduction](introduction.md)
 * [Project Management](project_management.md)
 * [Research Sprint](research_sprint.md)
