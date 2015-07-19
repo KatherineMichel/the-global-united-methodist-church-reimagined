@@ -6,7 +6,7 @@ Taking stock of resources on hand
 
 ### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
 * Paper
-* Sticky notes 
+* Sticky notes
 * Drawing pens 
 * Whiteboard
 * Whiteboard markers
