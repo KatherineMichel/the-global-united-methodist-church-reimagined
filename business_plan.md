@@ -74,7 +74,9 @@ Lightning Demos
 * Related/adjacent products
 * Innovators in the space
 
-Meetings Preparation
+## Meetings
+
+Preparation
 * Research target contacts
 * Create introductory email, reference story, script
 * Make contact
