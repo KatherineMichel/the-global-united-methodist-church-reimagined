@@ -2,22 +2,26 @@
 
 ## Value Propositions
 
-## Strategic Analysis
-
-* SWOT
-* PESTLE
-
 ## Company Messaging/Positioning Statement
 * Company description
 * Company 3-5 Core Values
 * Vision
 * Mission statement
 
+## Business Goals
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
+
 ## Staff
 
 ## Key Resources
 
 ## Key Supplier
+
+## Strategic Analysis
+
+* SWOT
+* PESTLE
 
 ## Market Analysis
 
