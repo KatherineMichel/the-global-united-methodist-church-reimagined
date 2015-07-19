@@ -7,6 +7,12 @@
 * SWOT
 * PESTLE
 
+## Company Messaging/Positioning Statement
+* Company description
+* Company 3-5 Core Values
+* Vision
+* Mission statement
+
 ## Staff
 
 ## Key Resources
