@@ -28,6 +28,13 @@ Market Share estimate
 
 Verify Product/Market Fit
 
+## Customer Analysis 
+
+Become the Customer
+* Customer's Motivation
+* Customer's Resource Flow
+* Influencers, Recommenders, Economic Buyers, Decision Makers, Potential Sabateurs
+
 ## Customer Segments
 
 ## Strategic Alliances
