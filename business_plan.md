@@ -83,3 +83,19 @@ Preparation
 * Build master calendar of scheduled appointments
 * Send thank you notes
 * Maintain ongoing, expanding list of contacts
+
+## Presentations
+
+Key Sales Presentations
+* Problem Presentation
+* Solution Presentation
+* Product Presentation
+
+Preparation and Presentations
+* Develop and rehearse presentations
+* Give presentation to several customer types
+* Show customer's perceived problem, show current solution, show startup's proposed solution
+* Describe product (five key features) 
+* Insert multiple prompts to invite customer feedback
+* Do customer interviews for those who heard first "problem presentation" 
+* If appropriate, include prototype/MVP/demo
