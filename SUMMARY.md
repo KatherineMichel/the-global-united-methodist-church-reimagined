@@ -11,8 +11,8 @@
    * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
    * [Personas and Use Cases](personas_and_use_cases.md)
-   * [User Testing Summary Report](user_testing_summary_report.md)
    * [Survey](survey.md)
+* [User Testing Results Report](user_testing_results_report.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
 
