@@ -1,5 +1,7 @@
 # The Global United Methodist Church Reimagined
 
+A GitBook Documenting a Research and Design Sprint
+
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
@@ -16,10 +18,7 @@ Table of Contents
 * [User Testing Results Report](user_testing_results_report.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
-
-A GitBook Documenting a Research and Design Sprint: 
-<br> 
-<br>
+ 
 GitBook: http://katherinemichel.gitbooks.io/the-global-united-methodist-church-reimagined/content/
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/the-global-united-methodist-church-reimagined
