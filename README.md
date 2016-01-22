@@ -2,6 +2,8 @@
 
 A GitBook Documenting a Research and Design Sprint
 
+![](cover.jpg)
+
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
