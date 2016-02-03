@@ -1,4 +1,4 @@
-# Personas and Use Cases
+# User Stories and Personas
 
 ## User Story 1: Logging in to use profile, Bible, marketplace, UMC portal content
 
