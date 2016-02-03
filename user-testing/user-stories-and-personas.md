@@ -5,7 +5,7 @@
 As part of the interviews, I would use a hypothetical scenario that would involve the church where the interviews were taking place (Pretty Prairie United Methodist Church) and one of Pretty Prairie United Methodist Church's mission projects: Dora North Circuit in Mutare District of Zimbabwe. 
 
 Information sheet about [Dora North Circuit, Zimbabwe](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing)
-[![](user-testing/dora-north-mission.jpg)](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing) (use magnifying glass icon to zoom)
+[![](images/dora-north-mission.jpg)](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing) (use magnifying glass icon to zoom)
 
 Article [Benefits of the Chabadza Partnerships Between the Great Plains Conference – Wichita West District & the Zimbabwe East Conference – Mutasa Nyanga District](http://www.greatplainsumc.org/newsdetail/1095566)
 
