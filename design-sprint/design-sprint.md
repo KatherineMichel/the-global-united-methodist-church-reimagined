@@ -2,7 +2,7 @@
 
 ## People and Supplies
 Taking stock of resources on hand
-![](design-sprint/supply-cabinet.jpg)
+![](images/supply-cabinet.jpg)
 
 ### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
 * Paper
@@ -50,7 +50,7 @@ User Story 3
 
 ### Mind map
 
-![](design-sprint/mindmap.jpg)
+![](images/mindmap.jpg)
 
 Mindmap cleaned up using Google Drawing
 ![](design-sprint/mindmap-cleaned-up.jpg)
@@ -58,19 +58,19 @@ Mindmap cleaned up using Google Drawing
 ### Storyboard
 What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
 
-![](design-sprint/crazy-eights-1.jpg)
+![](images/crazy-eights-1.jpg)
 
-![](design-sprint/crazy-eights-2.jpg)
+![](images/crazy-eights-2.jpg)
 
-![](design-sprint/crazy-eights-3.jpg)
+![](images/crazy-eights-3.jpg)
 
-![](design-sprint/crazy-eights-4.jpg)
+![](images/crazy-eights-4.jpg)
 
-![](design-sprint/crazy-eights-5.jpg)
+![](images/crazy-eights-5.jpg)
 
-![](design-sprint/crazy-eights-6.jpg)
+![](images/crazy-eights-6.jpg)
 
-![](design-sprint/crazy-eights-7.jpg)
+![](images/crazy-eights-7.jpg)
 
 #### Critique
 * Moved settings page to be before find friends and connect social accounts
