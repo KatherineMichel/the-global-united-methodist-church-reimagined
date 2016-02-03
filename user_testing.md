@@ -11,17 +11,6 @@ Conducting user testing
 
 The user testing interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
 
-### Testing Setup
-
-* Cleaned desk, computer, screen
-* Removed extraneous files from computer destop 
-* Moved prototype file to desktop
-* Did a test run of prototype
-* Opened lightning demo and mobile app use case links in a browser
-* Printed interview guide and placed in clipboard alongside notepad and pen
-* Cleaned room
-* After each interview, reset testing setup, including prototype
-
 ### High Level Agenda 
 
 High Level Agenda and Interview Guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing)
