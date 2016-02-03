@@ -3,7 +3,7 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Project Management](project_management.md)
-* [Research Sprint](research_sprint.md)
+* [Research Sprint](research-sprint.md)
    * [Software and Mobile Eating the World, Global Reorganization](software_and_mobile_eating_the_world,_global_reorganization.md)
    * [Google Trends](google_trends.md)
    * [Lightning Demos](lightning_demos.md)
