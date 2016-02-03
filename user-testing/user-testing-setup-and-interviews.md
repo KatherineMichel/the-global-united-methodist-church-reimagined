@@ -12,7 +12,7 @@
 * Placed a "Do not disturb! User testing in progress" sign on the door
 * After each interview, reset testing setup, including prototype
 
-![](user-testing/images/do-not-disturb-sign.jpg)
+![](images/do-not-disturb-sign.jpg)
 
 The user testing interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
 
@@ -33,14 +33,14 @@ High Level Agenda and Interview Guide info as a [Word doc](https://drive.google.
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
-![](user-testing/images/interview-worksheet-1.jpg)
+![](images/interview-worksheet-1.jpg)
 
-![](user-testing/images/interview-worksheet-2.jpg)
+![](images/interview-worksheet-2.jpg)
 
-![](user-testing/images/interview-worksheet-3.jpg)
+![](images/interview-worksheet-3.jpg)
 
-![](user-testing/images/interview-worksheet-4.jpg)
+![](images/interview-worksheet-4.jpg)
 
-![](user-testing/images/interview-worksheet-5.jpg)
+![](images/interview-worksheet-5.jpg)
 
-![](user-testing/images/interview-worksheet-6.jpg)
+![](images/interview-worksheet-6.jpg)
