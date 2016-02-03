@@ -1,6 +1,6 @@
 # Lightning Demos
 
-![](lightning-demos/united-methodist-church-model.jpg)
+![](images/united-methodist-church-model.jpg)
 
 Positives
 * Still one of the largest and most powerful churches in the world
@@ -10,7 +10,7 @@ Negatives
 * Missed network effect opportunity (does not fully utilize UMC membership base + potential ecumenical users) 
 * Missed opportunity to utilize info-tainment as marketing tool to direct potential users to UMC
 
-![](lightning-demos/lifechurch-model.jpg)
+![](images/lifechurch-model.jpg)
 
 Positives
 * Through mobile app, taking advantage of growing global shift to Smartphones, including in developing countries where UMC membership is skyrocketing 
