@@ -16,7 +16,7 @@ Table of Contents
    * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
    * [User Recruiting Process and Testing Area Setup](user_recruiting_process_and_testing_area_setup.md)
-   * [Interviews](interviews.md)
+   * [User Testing Interviews](user_testing_interviews.md)
    * [User Stories and Personas](user_stories_and_personas.md)
    * [Survey](survey.md)
 * [User Testing Results Report](user_testing_results_report.md)
