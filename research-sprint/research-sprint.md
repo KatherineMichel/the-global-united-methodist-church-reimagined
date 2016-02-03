@@ -2,14 +2,17 @@
 
 ## Summary of Results
 
-"Software and mobile are eating the world" and a "global reorganization" is happening. 
+"Software and mobile are eating the world" and a "global reorganization" is happening. ([Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) by [Marc Andreessen](https://twitter.com/pmarca), [Software is Reorganizing the World](http://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations) by [Balaji Srinivasan](https://twitter.com/balajis)) 
 
-The number of unconnected is shrinking as, between 2014 and 2020, "another billion people will come online" via smartphones, with "80% of the adults on earth" having a smartphone by 2020. "The smartphone industry dwarfs PCs" and "more time is spent in mobile apps than on all of the web." (From the [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world) slidedeck, by Benedict Evans of A16Z) 
+The number of unconnected is shrinking as, between 2014 and 2020, "another billion people will come online" via smartphones, with "80% of the adults on earth" having a smartphone by 2020. "The smartphone industry dwarfs PCs" and "more time is spent in mobile apps than on all of the web." (From the [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world) slidedeck, by [Benedict Evans](https://twitter.com/BenedictEvans)) 
 
 Worldwide (predominantly U.S.) interest in the search phrase ["United Methodist Church"](http://www.google.com/trends/explore#q=United%20Methodist%20Church) as well as ["Catholic" "Presbyterian" "Baptist"](http://www.google.com/trends/explore#q=United%20Methodist%2C%20Catholic%2C%20Presbyterian%2C%20Baptist&cmpt=q&tz=) (other mainline churches) has been steadily declining.
 
+Meanwhile, worldwide interest in the search phrases ["LifeChurch" and "The Bible App"](http://www.google.com/trends/explore#q=LifeChurch%2C%20The%20Bible%20App) has been on the rise. 
+
 This correlates with the rise in popularity of search phrases related to smartphone use and apps, and decline in popularity of search phrase related to desktop and website (["iPhone" "app" "Android" "desktop" "website"](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=)), and rise in popularity of search phrases related to smartphone use, apps, and livestreaming for church (["church iPhone" "church app" "church Android" "church desktop" "church website"](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=)). 
 
+Though search volume for the search phrase "United Methodist Church" (Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App)) 
 
 
 
