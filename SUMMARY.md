@@ -10,7 +10,7 @@
 * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
-   * [Personas and Use Cases](personas_and_use_cases.md)
+   * [User Stories and Personas](user_stories_and_personas.md)
    * [Survey](survey.md)
 * [User Testing Results Report](user_testing_results_report.md)
 * [Pitch](pitch.md)
