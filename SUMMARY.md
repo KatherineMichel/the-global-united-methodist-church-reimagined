@@ -10,6 +10,7 @@
 * [Design Sprint](design_sprint.md)
    * [Prototype](prototype.md)
 * [User Testing](user_testing.md)
+   * [User Recruiting Process](user_recruiting_process.md)
    * [Interviews](interviews.md)
    * [User Stories and Personas](user_stories_and_personas.md)
    * [Survey](survey.md)
