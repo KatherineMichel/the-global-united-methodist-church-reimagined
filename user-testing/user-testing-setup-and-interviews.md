@@ -33,14 +33,14 @@ High Level Agenda and Interview Guide info as a [Word doc](https://drive.google.
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
-![](images/user-testing/interview-worksheet-1.jpg)
+![](user-testing/images/interview-worksheet-1.jpg)
 
-![](images/user-testing/interview-worksheet-2.jpg)
+![](user-testing/images/interview-worksheet-2.jpg)
 
-![](images/user-testing/interview-worksheet-3.jpg)
+![](user-testing/images/interview-worksheet-3.jpg)
 
-![](images/user-testing/interview-worksheet-4.jpg)
+![](user-testing/images/interview-worksheet-4.jpg)
 
-![](images/user-testing/interview-worksheet-5.jpg)
+![](user-testing/images/interview-worksheet-5.jpg)
 
-![](images/user-testing/interview-worksheet-6.jpg)
+![](user-testing/images/interview-worksheet-6.jpg)
