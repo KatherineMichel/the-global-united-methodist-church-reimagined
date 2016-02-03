@@ -14,7 +14,7 @@ I filled out the Google Ventures Recruiting Screener Worksheet to prepare for us
 ## Recruiting Screener Ad
 Google Ventures often uses a Craig's List ad to recruit users. Because members of the United Methodist Church would be the primary users, I sent an email ad to members of the congregation with a link to the [Recruiting Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form). 
 
-Email Ad with link to [Recruitment Screener](https://docs.google.com/forms/d/16BgZQXq5FDxPuzamTADUWCKCPkizIKzR7now_lNrozM/viewform?usp=send_form)
+Email Ad with link to the Recruitment Screener
 ![](user-testing/user-testing-email.jpg)
 
 Follow Up Email for stragglers
@@ -44,7 +44,7 @@ After the phone calls, I sent each confirmed participant a confirmation email. I
 Example Confirmation Email
 ![](user-testing/user-testing-confirmation-email.jpg)
 
-Though Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)), I did not feel that one was needed for this situation. 
+Though Google Ventures suggests including in the email a link to a non-disclosure agreement, I did not feel that one was needed for this situation. 
 
 ## User Interviews
 
