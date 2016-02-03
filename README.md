@@ -8,10 +8,10 @@ Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Project Management](project-management.md)
-* [Research Sprint](research-sprint.md)
-   * [Software and Mobile Eating the World, Global Reorganization](research-sprint/software-and-mobile-eating-the-world,-global-reorganization.md)
-   * [Google Trends](research-sprint/google-trends.md)
+* [Research Sprint](research-sprint/research-sprint.md)
    * [Lightning Demos](research-sprint/lightning-demos.md)
+   * [Google Trends](research-sprint/google-trends.md)
+   * [Software and Mobile Eating the World, Global Reorganization](research-sprint/software-and-mobile-eating-the-world,-global-reorganization.md)
 * [Design Sprint](design-sprint/design-sprint.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
@@ -22,7 +22,7 @@ Table of Contents
    * [Thank You Email with Survey](user-testing/thank-you-email-with-survey.md)
 * [User Testing Summary](user-testing/user-testing-summary.md)
    * [User Testing Results Report](user-testing/user-testing-results-report.md)
-* [Pitch](pitch.md)
+* [Pitch](pitch/pitch.md)
 * [Lessons Learned](lessons-learned.md)
  
 GitBook: http://katherinemichel.gitbooks.io/the-global-united-methodist-church-reimagined/content/
