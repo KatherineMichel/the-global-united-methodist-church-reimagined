@@ -53,7 +53,7 @@ User Story 3
 ![](images/mindmap.jpg)
 
 Mindmap cleaned up using Google Drawing
-![](design-sprint/mindmap-cleaned-up.jpg)
+![](images/mindmap-cleaned-up.jpg)
 
 ### Storyboard
 What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
