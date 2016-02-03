@@ -1,15 +1,22 @@
 # Personas and Use Cases
 
-## Persona 1
+## User Story 1: Logging in to use profile, Bible, marketplace, UMC portal content
 
-### Use Case
+## Persona 1
 
 ## Persona 2
 
-### Use Case
+## User Story 2: Logging in as an approved merchant
 
-## Persona 3
+### Persona
 
-### Use Case
+### User Story 3: Logging in as an admin/volunteer
+
+### Persona
+
+
+
+
+
 
 
