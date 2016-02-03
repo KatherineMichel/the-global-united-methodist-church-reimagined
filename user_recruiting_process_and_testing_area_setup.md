@@ -49,4 +49,5 @@ Though Google Ventures suggests including in the email a link to a non-disclosur
 * Opened lightning demo and mobile app use case links in a browser
 * Printed interview guide and placed in clipboard alongside notepad and pen
 * Cleaned room
+* Placed a "Do not disturb! User testing in progress" sign on the door
 * After each interview, reset testing setup, including prototype
