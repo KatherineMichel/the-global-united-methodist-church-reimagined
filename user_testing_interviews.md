@@ -31,15 +31,4 @@ I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.c
 
 ![](user-testing/interview-worksheet-5.jpg)
 
-### Example Mobile App Use Case
-
-As part of the interviews, I would use a hypothetical scenario that would involve the church where the interviews were taking place (Pretty Prairie United Methodist Church) and one of Pretty Prairie United Methodist Church's mission projects: Dora North Circuit in Mutare District of Zimbabwe. 
-
-Information sheet about [Dora North Circuit, Zimbabwe](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing)
-[![](user-testing/dora-north-mission.jpg)](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing) (use magnifying glass icon to zoom)
-
-Article [Benefits of the Chabadza Partnerships Between the Great Plains Conference – Wichita West District & the Zimbabwe East Conference – Mutasa Nyanga District](http://www.greatplainsumc.org/newsdetail/1095566)
-
-Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRLW8yVG1iMnNiaDQ/view?usp=sharing)
-
 ![](user-testing/interview-worksheet-6.jpg)
