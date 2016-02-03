@@ -1,4 +1,4 @@
-# User Recruiting Process and Testing Area Setup
+# User Recruiting Process
 
 ## Recruiting Screener Worksheet
 
