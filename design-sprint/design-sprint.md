@@ -86,4 +86,4 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 
 ### Prototype
 
-These sketches formed the basis for a prototype.md that I made and that can be found in the User Testing section. 
+These sketches formed the basis for a (Prototype)[prototype/prototype.md] that I made and that can be found in the User Testing section. 
