@@ -19,6 +19,7 @@ Table of Contents
    * [User Testing Setup and Interviews](user_testing_setup_interviews.md)
    * [User Stories and Personas](user_stories_and_personas.md)
    * [Remote Testing](remote_testing.md)
+   * [Thank You Email with Survey](thank_you_email_with_survey.md)
 * [User Testing Results Report](user_testing_results_report.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
