@@ -7,11 +7,11 @@ A GitBook Documenting a Research and Design Sprint
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
-* [Project Management](project_management.md)
+* [Project Management](project-management.md)
 * [Research Sprint](research-sprint.md)
-   * [Software and Mobile Eating the World, Global Reorganization](software_and_mobile_eating_the_world,_global_reorganization.md)
-   * [Google Trends](google_trends.md)
-   * [Lightning Demos](lightning_demos.md)
+   * [Software and Mobile Eating the World, Global Reorganization](research-sprint/software-and-mobile-eating-the-world,-global-reorganization.md)
+   * [Google Trends](research-sprint/google-trends.md)
+   * [Lightning Demos](research-sprint/lightning-demos.md)
 * [Design Sprint](design-sprint/design-sprint.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
@@ -23,7 +23,7 @@ Table of Contents
 * [User Testing Summary](user-testing/user-testing-summary.md)
    * [User Testing Results Report](user-testing/user-testing-results-report.md)
 * [Pitch](pitch.md)
-* [Lessons Learned](lessons_learned.md)
+* [Lessons Learned](lessons-learned.md)
  
 GitBook: http://katherinemichel.gitbooks.io/the-global-united-methodist-church-reimagined/content/
 <br> 
