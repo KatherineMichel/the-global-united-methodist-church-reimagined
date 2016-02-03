@@ -12,7 +12,7 @@ Meanwhile, worldwide interest in the search phrases ["LifeChurch" and "The Bible
 
 This correlates with the rise in popularity of search phrases related to smartphone use and apps, and decline in popularity of search phrase related to desktop and website (["iPhone" "app" "Android" "desktop" "website"](http://www.google.com/trends/explore#q=iPhone%2C%20app%2C%20Android%2C%20desktop%2C%20website&cmpt=q&tz=)), and rise in popularity of search phrases related to smartphone use, apps, and livestreaming for church (["church iPhone" "church app" "church Android" "church desktop" "church website"](http://www.google.com/trends/explore#q=church%20iPhone%2C%20church%20app%2C%20church%20Android%2C%20church%20livestream&cmpt=q&tz=)). 
 
-Though search volume for the search phrase "United Methodist Church" (Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App)) 
+Though search volume for the search phrase "United Methodist Church" is still far greater than that for "LifeChurch" and "The Bible App" (Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App))... 
 
 
 
