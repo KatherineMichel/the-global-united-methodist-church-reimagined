@@ -40,4 +40,13 @@ Example Confirmation Email
 
 Though Google Ventures suggests including in the email a link to a non-disclosure agreement, I did not feel that one was needed for this situation. 
 
+## Testing Setup
 
+* Cleaned desk, computer, screen
+* Removed extraneous files from computer destop 
+* Moved prototype file to desktop
+* Did a test run of prototype
+* Opened lightning demo and mobile app use case links in a browser
+* Printed interview guide and placed in clipboard alongside notepad and pen
+* Cleaned room
+* After each interview, reset testing setup, including prototype
