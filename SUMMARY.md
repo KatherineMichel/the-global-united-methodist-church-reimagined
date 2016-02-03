@@ -11,7 +11,7 @@
    * [Prototype](prototype.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
-   * [User Testing Setup and Interviews](user-testing/user-testing-setup-interviews.md)
+   * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
    * [User Stories and Personas](user-testing/user-stories-and-personas.md)
    * [Remote Testing](user-testing/remote-testing.md)
    * [Thank You Email with Survey](user-testing/thank-you-email-with-survey.md)
