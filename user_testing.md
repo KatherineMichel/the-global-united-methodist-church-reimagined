@@ -4,6 +4,13 @@ Conducting user testing
 
 ![](user-testing/conducting-user-testing.jpg)
 
+
+## User Interviews
+
+![](user-testing/do-not-disturb-sign.jpg)
+
+The user testing interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
+
 ### Testing Setup
 
 * Cleaned desk, computer, screen
