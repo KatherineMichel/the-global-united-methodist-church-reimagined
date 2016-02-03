@@ -13,7 +13,7 @@
    * [User Recruiting Process](user_recruiting_process.md)
    * [User Testing Setup and Interviews](user_testing_setup_interviews.md)
    * [User Stories and Personas](user_stories_and_personas.md)
-   * [Survey](survey.md)
+   * [Remote Testing](remote_testing.md)
 * [User Testing Results Report](user_testing_results_report.md)
 * [Pitch](pitch.md)
 * [Lessons Learned](lessons_learned.md)
