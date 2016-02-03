@@ -2,7 +2,7 @@
 
 Conducting user testing
 
-![](user-testing/conducting-user-testing.jpg)
+![](images/conducting-user-testing.jpg)
 
 
 
