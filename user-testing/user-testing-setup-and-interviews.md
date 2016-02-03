@@ -45,4 +45,4 @@ I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.c
 
 ![](images/interview-worksheet-6.jpg)
 
-See [User Stories and Personas](user-testing/user-stories-and-personas.md) for more information about the user stories and personas used during the User Testing. 
+See [User Stories and Personas](user-stories-and-personas.md) for more information about the user stories and personas used during the User Testing. 
