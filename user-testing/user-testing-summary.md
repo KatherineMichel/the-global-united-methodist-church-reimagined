@@ -1,4 +1,4 @@
-# User Testing Summary Report
+# User Testing Summary
 
 ## Participant Information Summary Table
 
