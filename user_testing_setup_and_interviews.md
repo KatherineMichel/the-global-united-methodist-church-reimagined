@@ -1,4 +1,16 @@
-# User Testing Interviews
+# User Testing Setup and Interviews
+
+## Testing Setup
+
+* Cleaned desk, computer, screen
+* Removed extraneous files from computer destop 
+* Moved prototype file to desktop
+* Did a test run of prototype
+* Opened lightning demo and mobile app use case links in a browser
+* Printed interview guide and placed in clipboard alongside notepad and pen
+* Cleaned room
+* Placed a "Do not disturb! User testing in progress" sign on the door
+* After each interview, reset testing setup, including prototype
 
 ![](user-testing/do-not-disturb-sign.jpg)
 
