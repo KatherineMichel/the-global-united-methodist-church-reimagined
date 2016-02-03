@@ -12,7 +12,7 @@ Table of Contents
    * [Software and Mobile Eating the World, Global Reorganization](software_and_mobile_eating_the_world,_global_reorganization.md)
    * [Google Trends](google_trends.md)
    * [Lightning Demos](lightning_demos.md)
-* [Design Sprint](design_sprint.md)
+* [Design Sprint](design-sprint/design-sprint.md)
    * [Prototype](prototype.md)
 * [User Testing](user-testing/user-testing.md)
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
