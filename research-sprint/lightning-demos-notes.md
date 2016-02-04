@@ -1,4 +1,4 @@
-# Lightning Demos
+# Lightning Demos Notes
 
 ![](images/united-methodist-church-model.jpg)
 
