@@ -26,4 +26,10 @@ That the United Methodist Church does not currently have a mobile app means it i
 
 For the United Methodist Church to reinvent itself to operate similarly to LifeChurch would be difficult though. While much of the United Methodist Church's operating budget comes from the offering plate, LifeChurch has a less conventional business model that involves in part revenue generated through its mobile app and online donations. LifeChurch also has a much smaller staff to support, again, not unlike other technology startups. 
 
+### Lightning Demos
 
+The United Methodist church
+![](images/united-methodist-church-model.jpg)
+
+LifeChurch
+![](images/lifechurch-model.jpg)
