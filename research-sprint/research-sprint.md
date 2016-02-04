@@ -28,8 +28,8 @@ For the United Methodist Church to reinvent itself to operate similarly to LifeC
 
 ### Lightning Demos
 
-The United Methodist church
+The United Methodist Church Model
 ![](images/united-methodist-church-model.jpg)
 
-LifeChurch
+LifeChurch Model
 ![](images/lifechurch-model.jpg)
