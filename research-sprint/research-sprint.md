@@ -16,7 +16,7 @@ This interest in LifeChurch and The Bible App correlates with the rise in popula
 
 ### Reinvention to Avoid Disruption
 
-Even industries with previously no connection at all to software (such as churches) are being "eaten by software," as more services are being delivered (and expected to be delivered) online. By leveraging software, small teams are able to create global online organizations that are cheaper than ever to maintain and that threaten to disrupt slower-moving, large-scale, established incumbent organizations. 
+Even industries with previously no connection at all to software (such as churches) are being "eaten by software," as more services are being delivered (and expected to be delivered) online. By leveraging software, small teams are able to create global, online organizations that are cheaper than ever to maintain and that threaten to disrupt slower-moving, large-scale, established incumbent organizations. 
 
 Though search volume for the search phrase "United Methodist Church" is far greater than that for "LifeChurch" and "The Bible App" (Google Trends graph for phrases ["United Methodist Church" "LifeChurch" "The Bible App"](http://www.google.com/trends/explore#q=United%20Methodist%20Church%2C%20LifeChurch%2C%20The%20Bible%20App)), this is the sort of David and Goliath story warned of in [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) by [Marc Andreessen](https://twitter.com/pmarca). 
 
