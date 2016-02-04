@@ -1,4 +1,4 @@
-# Software and Mobile Eating the World, Global Reorganization
+# Software and Mobile Eating the World, Global Reorganization Notes
 
 ## Software is Eating the World
 [Marc Andreessen](https://twitter.com/pmarca) famously explained his theory of [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) in the Wall Street Journal in 2011. 
