@@ -19,9 +19,6 @@ Overview Documents
 *   [Usability Test Plan Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html)
 *   [What to Test/Note taker’s Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/what-testnote-takers-guide.html)
 
-Persona Development 
-*   [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-
 Introduction to Testing With or Without Moderator
 *   [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
 *   [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
