@@ -7,9 +7,18 @@ Usability Test Results Reports
 
 ## Usability Test Report
 
+Usability Test Report for [Product Name]
 * [Name of Web Application/Site] Test
 * [Name of Report Writer]
-* [Report Date]
+
+Date of Report:		[Month Day, Year] 
+Date of Test:  		[Month Day, Year]
+Location of Test:  	[City, State]  
+
+Prepared for: 		[First Name, Last Name]
+Phone Number:		[XXX-XXX-XXXX]
+Email: 			[name@address.gov]
+
 * Table of Contents [Insert Table of Contents]
 * Introduction
 * Executive Summary
@@ -22,28 +31,6 @@ Usability Test Results Reports
 * Recommendations/Next Steps
 * Conclusion
 
-## Usability Test Report PPTX
-## Usability Test Report DOCX
-## Usability Test Report [Long/Formal], [Short/Informal]
-
-Usability Test Report for [Product Name]
-
-Date of Report:		[Month Day, Year] 
-Date of Test:  		[Month Day, Year]
-Location of Test:  	[City, State]  
-
-Prepared for: 		[Name]
-Phone Number:		[XXX-XXX-XXXX]
-Email: 		[name@address.gov] 
-
-Prepared for: 		[First Name, Last Name]
-Phone Number:		[XXX-XXX-XXXX]
-Email: 			[name@address.gov]
-
-Table of Contents
-
-* Executive Summary
-* Methodology
 * What happened during the usability test
 * Who we tested
 * What participants did
@@ -54,7 +41,6 @@ Table of Contents
 * Scenario 1 - 
 * Scenario 2 – 
 * Scenario 3 – 
-* Exit Questions/User Impressions
 
 * Where we tested
 * Introductory Questions & Tasks
