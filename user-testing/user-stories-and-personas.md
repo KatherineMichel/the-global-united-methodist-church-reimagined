@@ -11,19 +11,24 @@ Article [Benefits of the Chabadza Partnerships Between the Great Plains Conferen
 
 Article as [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSDhTdXp3akUyX28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRLW8yVG1iMnNiaDQ/view?usp=sharing)
 
-## User Story 1: Logging in to use profile, Bible, marketplace, UMC portal content
+## User Stories and Personas
 
-### Persona 1: Prospective Church Goer
+Persona Development 
+*   [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 
-### Persona 2: Person in Need
+### User Story 1: Logging in to use profile, Bible, marketplace, UMC portal content
 
-## User Story 2: Logging in as an approved merchant
+#### Persona 1: Prospective Church Goer
 
-### Persona: Merchant
+#### Persona 2: Person in Need
 
-### User Story 3: Logging in as an admin/volunteer
+### User Story 2: Logging in as an approved merchant
 
-### Persona 1: Member and Church Goer
+#### Persona: Merchant
+
+#### User Story 3: Logging in as an admin/volunteer
+
+#### Persona 1: Member and Church Goer
 
 
 
