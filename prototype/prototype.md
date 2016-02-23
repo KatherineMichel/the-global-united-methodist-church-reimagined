@@ -1,15 +1,15 @@
 # Prototype
 
-Global United Methodist Church Mobile Presence Re-Imagined :)
+Global United Methodist Church mobile presence re-imagined :)
 
 Prototype as [PowerPoint doc](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing)
 
-## Church App Responsive Design Mockup
+## Church App responsive design mockup
 
 Church App on iPhone 6+, iPad, Mac
 ![](images/iphone-6-plus-ipad-imac.png)
 
-## Church App Mobile Screen Mockups (iPhone 6+)
+## Church App mobile screen mockups (iPhone 6+)
 
 App homepage, sign up, settings
 ![](images/iphone-6-plus-screens-1.jpg)
