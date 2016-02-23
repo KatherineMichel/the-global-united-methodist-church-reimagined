@@ -1,6 +1,6 @@
 # Prototype
 
-Global United Methodist Church mobile presence re-imagined :)
+Global United Methodist Church mobile presence reimagined :)
 
 Prototype as [PowerPoint doc](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing)
 
