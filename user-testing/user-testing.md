@@ -1,4 +1,4 @@
-# User testing
+# User Testing
 
 Conducting user testing
 
