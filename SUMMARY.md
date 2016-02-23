@@ -12,6 +12,5 @@
    * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
    * [Prototype](prototype/prototype.md)
 * [User Testing Summary](user-testing/user-testing-summary.md)
-* [Pitch](pitch/pitch.md)
 * [Lessons Learned](lessons-learned.md)
 
