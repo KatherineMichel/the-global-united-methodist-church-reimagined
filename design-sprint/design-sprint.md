@@ -1,10 +1,12 @@
 # Design Sprint
 
-## People and supplies
+## People and Supplies
+
 Taking stock of resources on hand
 ![](images/supply-cabinet.jpg)
 
-### [Supplies needed](http://amzn.com/lm/RS9AYY6BTLDCM)
+### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
+
 * Paper
 * Sticky notes
 * Drawing pens 
@@ -17,13 +19,13 @@ Taking stock of resources on hand
 
 * And a working space
 
-### People needed
+### People Needed
 
 I did most of the design work alone, and facilitated select problem solving group work, particularly involving the church's Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church. 
 
-## Design Sprint process
+## Design Sprint Process
 
-### User story
+### User Story
 
 #### User story task list
 
@@ -48,7 +50,7 @@ User Story 2
 User Story 3
 * Logging in as an admin/volunteer
 
-### Mind map
+### Mind Map
 
 ![](images/mindmap.jpg)
 
