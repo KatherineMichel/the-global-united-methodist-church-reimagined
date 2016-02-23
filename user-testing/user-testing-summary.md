@@ -24,9 +24,9 @@
 
 ## Lightning Demos
 * [United Methodist Church](http://umc.org)
-* [LifeChurch Bible App](www.bible.com)
-* [Snapchat](www.snapchat.org)
-* [Crowdfunding and marketplace apps](www.kickstarter.com)
+* [LifeChurch Bible App](http://bible.com)
+* [Snapchat](http://snapchat.org)
+* [Crowdfunding and marketplace apps](http://kickstarter.com)
 
 
 ## Lightning Demo Questions
