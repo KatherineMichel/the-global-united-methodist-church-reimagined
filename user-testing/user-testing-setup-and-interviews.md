@@ -1,6 +1,6 @@
 # User Testing Setup and Interviews
 
-## Testing setup
+## Testing Setup
 
 * Cleaned desk, computer, screen
 * Removed extraneous files from computer destop 
@@ -16,7 +16,7 @@
 
 The user testing interviews would be done using the [Prototype](prototype/prototype.md) that was the end result of my Design Sprint. 
 
-## High level agenda 
+## High Level Agenda 
 
 High level agenda and interview guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing)
 
@@ -29,7 +29,7 @@ High level agenda and interview guide info as a [Word doc](https://drive.google.
 * Debrief, feedback
 * Thank you and goodbye
 
-## Interview guide 
+## Interview Guide 
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
@@ -45,7 +45,7 @@ I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.c
 
 ![](images/interview-worksheet-6.jpg)
 
-## Example mobile app use case
+## Example Mobile App Use Case
 
 As part of the interviews, I would use a hypothetical scenario that would involve the church where the interviews were taking place (Pretty Prairie United Methodist Church) and one of Pretty Prairie United Methodist Church's mission projects: Dora North Circuit in Mutare District of Zimbabwe. 
 
