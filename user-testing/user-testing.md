@@ -6,7 +6,7 @@ Conducting user testing
 
 * [User Recruiting Process](user-recruiting-process.md)
 * [User Testing Setup and Interviews](user-testing-setup-and-interviews.md)
-* [Prototype](prototype/prototype.md)
+
 
 
 
