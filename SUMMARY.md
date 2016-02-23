@@ -2,7 +2,6 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
-* [Project Management](project-management.md)
 * [Research Sprint](research-sprint/research-sprint.md)
    * [Lightning Demos Notes](research-sprint/lightning-demos-notes.md)
    * [Google Trends Notes](research-sprint/google-trends-notes.md)
