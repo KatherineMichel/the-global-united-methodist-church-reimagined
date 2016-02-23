@@ -4,7 +4,7 @@
 Taking stock of resources on hand
 ![](images/supply-cabinet.jpg)
 
-### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
+### [Supplies needed](http://amzn.com/lm/RS9AYY6BTLDCM)
 * Paper
 * Sticky notes
 * Drawing pens 
