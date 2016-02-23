@@ -23,7 +23,7 @@
 | Under what circumstance do you use the internet as part of your worship habits? | Has mobile phone, not smartphone; has tablet, but does not use; does not like to be in front of computer; uses tech for a special reason, but not as a habit (ex. playing DVD in Sunday School) | Likes the use of email, use of presentation tech during worship to help people read words, sing hymns | Receives scripture devotions daily by email and weekly UMC and non-UMC religious newsletters by email | Does not use tech much with religion; does look at PP UMC Facebook page; sometimes sees friends/family post about religion; would use tech + religion more if there were a community/network of people |  |
 
 ## Lightning Demos
-* [United Methodist Church](www.umc.org)
+* [United Methodist Church](http://umc.org)
 * [LifeChurch Bible App](www.bible.com)
 * [Snapchat](www.snapchat.org)
 * [Crowdfunding and marketplace apps](www.kickstarter.com)
