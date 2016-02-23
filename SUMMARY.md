@@ -2,7 +2,7 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
-* [Research Sprint](research-sprint/research-sprint.md)
+* [Research Sprint Summary](research-sprint/research-sprint-summary.md)
    * [Lightning Demos Notes](research-sprint/lightning-demos-notes.md)
    * [Google Trends Notes](research-sprint/google-trends-notes.md)
    * [Software and Mobile Eating the World, Global Reorganization Notes](research-sprint/software-and-mobile-eating-the-world,-global-reorganization-notes.md)
