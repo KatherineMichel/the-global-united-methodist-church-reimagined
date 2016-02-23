@@ -12,7 +12,7 @@ Google Ventures often uses a Craig's List ad to recruit users. Because members o
 Email ad with link to the recruitment screener
 ![](images/user-testing-email.jpg)
 
-Follow Up email for stragglers
+Follow up email for stragglers
 ![](images/user-testing-email-follow-up.jpg)
 
 ## Recruiting Screener
