@@ -1,6 +1,6 @@
 # The Global United Methodist Church Reimagined
 
-A GitBook documenting a research and design sprint
+A GitBook Documenting a Research and Design Sprint
 
 ![](cover.jpg)
 
