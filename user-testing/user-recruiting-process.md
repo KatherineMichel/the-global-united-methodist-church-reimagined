@@ -25,7 +25,7 @@ I used [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to cre
 
 ### Phone Call
 
-After reviewing the recruitersScreener responses automatically collected in a spreadsheet in Google Drive, I chose prospective user testing participants and called each one to confirm participation. 
+After reviewing the recruiter screener responses automatically collected in a spreadsheet in Google Drive, I chose prospective user testing participants and called each one to confirm participation. 
 
 ### Confirmation Email
 
