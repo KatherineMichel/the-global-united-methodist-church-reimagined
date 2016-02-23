@@ -11,7 +11,6 @@
    * [User Recruiting Process](user-testing/user-recruiting-process.md)
    * [User Testing Setup and Interviews](user-testing/user-testing-setup-and-interviews.md)
    * [Prototype](prototype/prototype.md)
-   * [Remote Testing](user-testing/remote-testing.md)
 * [User Testing Summary](user-testing/user-testing-summary.md)
    * [User Testing Results Report](user-testing/user-testing-results-report.md)
 * [Pitch](pitch/pitch.md)
