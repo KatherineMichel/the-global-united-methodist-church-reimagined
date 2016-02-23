@@ -14,7 +14,7 @@
 
 ![](images/do-not-disturb-sign.jpg)
 
-The user testing interviews would be done using the [Prototype](prototype.md) that was the end result of my Design Sprint. 
+The user testing interviews would be done using the Prototype that was the end result of my Design Sprint. 
 
 ## High Level Agenda 
 
