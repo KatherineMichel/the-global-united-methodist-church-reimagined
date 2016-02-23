@@ -1,6 +1,6 @@
 # Design Sprint
 
-## People and Supplies
+## People and supplies
 Taking stock of resources on hand
 ![](images/supply-cabinet.jpg)
 
@@ -17,15 +17,15 @@ Taking stock of resources on hand
 
 * And a working space
 
-### People Needed
+### People needed
 
 I did most of the design work alone, and facilitated select problem solving group work, particularly involving the church's Administrative Council Committee and Nurture, Outreach, Witness (NOW) Committee, which both plan outreach for the church. 
 
-## Design Sprint Process
+## Design Sprint process
 
-### User Story
+### User story
 
-#### User Story Task List
+#### User story task list
 
 * Login and sign up
 * Tour (optional)
@@ -37,7 +37,7 @@ I did most of the design work alone, and facilitated select problem solving grou
 * Marketplace (e-shop front, crowdfunding)
 * Discover (portal to United Methodist content)
 
-#### User Story Divided into Parts
+#### User story divided into parts
 
 User Story 1
 * Logging in to use profile, Bible, marketplace, UMC portal content
@@ -56,7 +56,7 @@ Mindmap cleaned up using Google Drawing
 ![](images/mindmap-cleaned-up.jpg)
 
 ### Storyboard
-What I intended to be Crazy Eights become more like a Storyboard. I felt that after a critique, I could move on to a prototype. 
+What I intended to be Crazy Eights become more like a storyboard. I felt that after a critique, I could move on to a prototype. 
 
 ![](images/crazy-eights-1.jpg)
 
@@ -86,4 +86,4 @@ What I intended to be Crazy Eights become more like a Storyboard. I felt that af
 
 ### Prototype
 
-These sketches formed the basis for a Prototype that I made and that can be found in the User Testing section. 
+These sketches formed the basis for a prototype that I made and that can be found in the User Testing section. 
