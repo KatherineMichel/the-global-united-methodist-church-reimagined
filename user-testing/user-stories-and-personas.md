@@ -1,6 +1,6 @@
 # User Stories and Personas
 
-## Example Mobile App Use Case
+## Example mobile app use case
 
 As part of the interviews, I would use a hypothetical scenario that would involve the church where the interviews were taking place (Pretty Prairie United Methodist Church) and one of Pretty Prairie United Methodist Church's mission projects: Dora North Circuit in Mutare District of Zimbabwe. 
 
