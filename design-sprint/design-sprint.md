@@ -86,4 +86,4 @@ What I intended to be Crazy Eights become more like a storyboard. I felt that af
 
 ### Prototype
 
-These sketches formed the basis for a prototype that I made and that can be found in the User Testing section. 
+These sketches formed the basis for a Prototype that I made and that can be found in the User Testing section. 
