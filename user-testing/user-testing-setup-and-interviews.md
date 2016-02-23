@@ -1,6 +1,6 @@
 # User Testing Setup and Interviews
 
-## Testing Setup
+## Testing setup
 
 * Cleaned desk, computer, screen
 * Removed extraneous files from computer destop 
@@ -16,20 +16,20 @@
 
 The user testing interviews would be done using the [Prototype](prototype/prototype.md) that was the end result of my Design Sprint. 
 
-## High Level Agenda 
+## High level agenda 
 
-High Level Agenda and Interview Guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing)
+High level agenda and interview guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing)
 
 * Welcome
-* Communication Audit Survey about local church marketing materials
+* Communication audit survey about local church marketing materials
 * "User Discovery"
-* Lightning Demos
-* Church App Prototype
+* Lightning demos
+* Church App prototype
 * Task scenarios and follow-up probes
 * Debrief, feedback
 * Thank you and goodbye
 
-## Interview Guide 
+## Interview guide 
 
 I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
