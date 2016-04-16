@@ -27,7 +27,7 @@ I did most of the design work alone, and facilitated select problem solving grou
 
 ### User Story
 
-#### User story task list
+#### User Story Task List
 
 * Login and sign up
 * Tour (optional)
@@ -39,7 +39,7 @@ I did most of the design work alone, and facilitated select problem solving grou
 * Marketplace (e-shop front, crowdfunding)
 * Discover (portal to United Methodist content)
 
-#### User story divided into parts
+#### User Story Divided into Parts
 
 User Story 1
 * Logging in to use profile, Bible, marketplace, UMC portal content
