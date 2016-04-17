@@ -24,7 +24,7 @@ High level agenda and interview guide info as a [Word doc](https://drive.google.
 * Communication audit survey about local church marketing materials
 * "User Discovery"
 * Lightning demos
-* Church App prototype
+* Church App prototype (Prototype as [PowerPoint doc](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing))
 * Task scenarios and follow-up probes
 * Debrief, feedback
 * Thank you and goodbye
