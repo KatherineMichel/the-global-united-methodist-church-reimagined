@@ -17,7 +17,7 @@
 
 ## Discovery Questions
 
-|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 |
 | -- | -- | -- | -- |
 | Some people have very negative feelings about integrating new technology and religion. How do you feel about it? | Says people have negative thoughts about anything new, but tech can be used effectively in combination with religion; But does not think people should worship alone; says people come to church for socializing/fellowship | Says tech can be used effectively as a tool for religion, but people who do not show up to worship are missing out on an essential part of the church experience that can't be replicated online (human emotion, socializing, sense of community, charitability toward neighbors); believes livestreaming, rebroadcasting are cause for worry except in special situations, though larger churches often do it; says churches are still being planted and drawing larger numbers of people, for instance in Africa, and church/live worship is an important rallying point; comments though that her ideas for community worship may not be survivable, adapatible due to people not showing up and operating expenses; comments that the brains of youth are being re-wired, tech often vital way to reach them | Thinks can be overused, for instance, says worship via tech cannot take place of feeling the spirit in person; does not think people should watch church on their phone | Says as tech advances, it allows us to do more things; if it can benefit worship, then it should be used; the church should change with the times; if that's the way that people communicate, that is also how they will become aware of what you are doing |
 | Under what circumstance do you use the internet as part of your worship habits? | Has mobile phone, not smartphone; has tablet, but does not use; does not like to be in front of computer; uses tech for a special reason, but not as a habit (ex. playing DVD in Sunday School) | Likes the use of email, use of presentation tech during worship to help people read words, sing hymns | Receives scripture devotions daily by email and weekly UMC and non-UMC religious newsletters by email | Does not use tech much with religion; does look at PP UMC Facebook page; sometimes sees friends/family post about religion; would use tech + religion more if there were a community/network of people |  |
@@ -31,7 +31,7 @@
 
 ## Lightning Demo Questions
 
-|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | 
 | -- | -- | -- | -- |
 | Do you use the UMC website? | When has specific reason | When has specific reason, otherwise would not use; says hard to navigate/labrinth | When has specific reason, for example, to find list for UMC health kits | When has a specific reason for example, to find ways to enhance worship, small-membership churches, outreach/growing church resources |
 | Have you ever used any of the other lightning demo products (Bible App, Snapchat, Crowdfunding)? | Had not heard of any of them | Had heard of Kickstarter, but not the others | Had heard of Snapchat, LifeChurch, crowdfunding, but not used | Had heard of LifeChurch, but not used or seen any LifeChurch social media posts from others; had not heard of other products |  |
@@ -39,7 +39,7 @@
 
 ## Debrief Questions
 
-|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 |
 | -- | -- | -- | -- |
 | What do you think of this? Under what circumstance would you use this? Why?  | Might use, but would depend on specific situation, would need to know the benefit; for example might use marketplace/crowdfunding if believes in the cause (UMC/PP UMC program) | Says she would use/wants to use | "In love with it," would use | Might use, would want to try it and see what it's like |  |
 | Which parts of it do you like? | General: means of communication, versatility, potential to create improvement and positivity  | Marketplace (when sitting someplace for five minutes, would log on and take a look); Prayer Warriors (likes that it's real time, no need to make formal request), Bible study (especially for people who are remote/homebound or no time to be face-to-face) | Prayer Warriors, Marketplace (sitting around, would want to use for 5 minutes), church geo-location, daily scripture messages, Bible study | Scripture, what the merchant's sell, opportunity to give money to projects |  |
