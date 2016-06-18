@@ -23,5 +23,5 @@ GitBook: http://katherinemichel.gitbooks.io/the-global-united-methodist-church-r
 <br> 
 GitHub repo: https://github.com/KatherineMichel/the-global-united-methodist-church-reimagined
 
-© [Katherine Michel](https://twitter.com/katimichel) 2015-2016
+© [Katherine Michel](http://katherinemichel.github.io) 2015-2016
 
