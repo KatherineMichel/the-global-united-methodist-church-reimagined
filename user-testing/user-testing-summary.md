@@ -2,18 +2,18 @@
 
 ## Participant Information Summary Table
 
-|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | 
+|  | Participant 1 | Participant 2 | Participant 3 | Participant 4 |
 | -- | -- | -- | -- |
-| Gender | Female | Female | Female |Female | Female | 
-| Age | 76 | 66 | 61 | 64 | 62 | 
-| Do you work in tech or are a tech expert of some type? | No  | No  | No  | No | No | 
-| If you do work in tech/are a tech expert, in what subject or role? | N/A  | N/A  | N/A  | N/A | N/A | 
-| Do you currently attend a church and/or read the Bible? (This can be any church that uses the Bible.) | Yes  | Yes  | Yes  | Yes | Yes | 
-| Are you unaffiliated with a church, but interested in Christian resources via web and/or mobile? | No  | No  | No  | No | No |
-| Do you sell goods that promote fair-trade, sustainability?  | No  | No  | No  | No | No |
-| Are you sometimes in need of/willing to offer spiritual guidance/a helping hand and willing to receive/offer this virtually? | Yes  | Yes  | Yes  | Yes | Yes | 
-| Do you have website/app admin experience? | No  | No  | No  | No | No |
-| What would be the most convenient time for you take part in a 30 minute (approximately)  user testing session? | Afternoon, Evening  | Afternoon  | Anytime  | Afternoon | Weekend |
+| Gender | Female | Female | Female |Female |
+| Age | 76 | 66 | 61 | 64 |
+| Do you work in tech or are a tech expert of some type? | No  | No  | No  | No |
+| If you do work in tech/are a tech expert, in what subject or role? | N/A  | N/A  | N/A  | N/A |
+| Do you currently attend a church and/or read the Bible? (This can be any church that uses the Bible.) | Yes  | Yes  | Yes  | Yes |
+| Are you unaffiliated with a church, but interested in Christian resources via web and/or mobile? | No  | No  | No  | No |
+| Do you sell goods that promote fair-trade, sustainability?  | No  | No  | No  | No |
+| Are you sometimes in need of/willing to offer spiritual guidance/a helping hand and willing to receive/offer this virtually? | Yes  | Yes  | Yes  | Yes | 
+| Do you have website/app admin experience? | No  | No  | No  | No |
+| What would be the most convenient time for you take part in a 30 minute (approximately)  user testing session? | Afternoon, Evening  | Afternoon  | Anytime  | Afternoon |
 
 ## Discovery Questions
 
