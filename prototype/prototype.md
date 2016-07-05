@@ -2,7 +2,7 @@
 
 Global United Methodist Church mobile presence reimagined :)
 
-Prototype as [PowerPoint doc](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing)
+Prototype as [PowerPoint](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBblVDNFE/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRRm92SDU1WUhjMGs/view?usp=sharing)
 
 ## Church App Responsive Design Mockup
 
