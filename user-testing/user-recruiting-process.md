@@ -3,7 +3,7 @@
 ## Recruiting Screener Worksheet
 
 I filled out the Google Ventures recruiting screener worksheet to prepare for user recruitment
-![](images/recruitment-screener-worksheet.jpg)
+![](images/recruiting-screener-worksheet.jpg)
 
 ## Recruiting Screener Ad
 
