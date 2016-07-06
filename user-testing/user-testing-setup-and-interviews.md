@@ -47,7 +47,7 @@ I used Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.c
 
 ## Example Mobile App Use Case
 
-As part of the interviews, I would use a hypothetical scenario that would involve the church where the interviews were taking place (Pretty Prairie United Methodist Church) and one of Pretty Prairie United Methodist Church's mission projects: Dora North Circuit in Mutare District of Zimbabwe. 
+As part of the interviews, I would use a hypothetical scenario that would involve the church where the interviews were taking place and one of its mission projects: Dora North Circuit in Mutare District of Zimbabwe. 
 
 Information sheet about [Dora North Circuit, Zimbabwe](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing)
 [![](images/dora-north-mission.jpg)](https://drive.google.com/file/d/0B02bpu7HZwJRM2UyVXpRcm9hMkE/view?usp=sharing) (use magnifying glass icon to zoom)
