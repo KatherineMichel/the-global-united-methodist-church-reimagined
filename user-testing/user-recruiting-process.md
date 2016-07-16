@@ -35,7 +35,6 @@ After the phone calls, I sent each confirmed participant a confirmation email. I
 * Time
 * Directions
 * Contact info
-* NDA (if needed)
 * A request that prospective users reply to confirm
 
 Example confirmation email
