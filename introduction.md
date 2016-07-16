@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the process of [project managing a church website, marketing materials, and marketing plan on a budget](http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/), I learned about problems (and opportunities) facing the global [United Methodist Church](http://www.umc.org). I project managed a research and design sprint based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. The goal was to re-imagine the global United Methodist Church, in line with trends in tech and United Methodist membership.
+In the process of [Project Managing a Church Website, Marketing Materials, and Marketing Plan on a Budget](http://katherinemichel.gitbooks.io/church-website-and-marketing-on-a-budget/content/), I learned about problems (and opportunities) facing the global [United Methodist Church](http://www.umc.org). I Project Managed a research and design sprint loosely based on the Google Ventures [Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions) and [Design Sprint](http://www.gv.com/sprint) models. The goal was to reimagine the global United Methodist Church, in line with trends in tech and United Methodist membership.
 
 ## Purpose
 
