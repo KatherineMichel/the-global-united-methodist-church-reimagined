@@ -15,7 +15,7 @@ Marc Andreessen: "Starting in 2007, with the iPhone, the smartphone comes out. T
 
 A few slides from the [Mobile is Eating the World](http://a16z.com/2014/10/28/mobile-is-eating-the-world) slidedeck, by Benedict Evans of a16z: 
 
-"The unconnected are shrinking"<br>
+"The unconnected are shrinking."<br>
 ![](images/unconnected-are-shrinking.png)
 
 Between 2014 and 2020, "Another billion people will come online, all due to smartphones."
@@ -24,10 +24,10 @@ Between 2014 and 2020, "Another billion people will come online, all due to smar
 "By 2020 80% of the adults on earth will have a smartphone."
 ![](images/by-2020-80-percent-of-adults.png)
 
-"The smartphone industry dwarfs PCs"
+"The smartphone industry dwarfs PCs."
 ![](images/smartphone-industry-dwarfs-pcs.png)
 
-"More time is spent in mobile apps than on all of the web"
+"More time is spent in mobile apps than on all of the web."
 ![](images/more-time-spent-in-mobile-apps.png)
 
 ## Software is Reorganizing the World
