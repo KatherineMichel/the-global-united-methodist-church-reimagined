@@ -41,5 +41,4 @@ Main menu, marketplace homepage, merchant profile
 Main menu, UMC Discover, story detail
 ![](images/iphone-6-plus-screens-10.jpg)
 
-Photo credit:
-Original, license-free, [MorgueFile](http://www.morguefile.com/archive/display/924868) photo
+Photo credit: original, license-free, [MorgueFile](http://www.morguefile.com/archive/display/924868) photo
