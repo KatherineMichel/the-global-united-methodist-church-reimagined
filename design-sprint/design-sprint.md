@@ -54,7 +54,7 @@ User Story 3
 
 ![](images/mindmap.jpg)
 
-Mindmap cleaned up using Google Drawing
+Mindmap cleaned up using [Google Drawings](https://en.wikipedia.org/wiki/Google_Drawings)
 ![](images/mindmap-cleaned-up.jpg)
 
 ### Storyboard
