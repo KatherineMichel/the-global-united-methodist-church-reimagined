@@ -18,7 +18,7 @@ The user testing interviews would be done using the Prototype that was the end r
 
 ## High Level Agenda 
 
-High level agenda and interview guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing)
+High level agenda and interview guide info as a [Word doc](https://drive.google.com/file/d/0B02bpu7HZwJRSkh5bGVzVXZTQ28/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B02bpu7HZwJRaWN1UEdVNU1hMkk/view?usp=sharing):
 
 * Welcome
 * Communication audit survey about local church marketing materials
