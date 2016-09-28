@@ -7,7 +7,7 @@ Prototype as [PowerPoint](https://drive.google.com/file/d/0B02bpu7HZwJRU2o1dnZBb
 ## Church App Responsive Design Mockup
 
 Church App on iPhone 6+, iPad, Mac
-![](images/iphone-6-plus-ipad-imac.png)
+![](images/iphone-6-plus-ipad-imac.jpg)
 
 ## Church App Mobile Screen Mockups (iPhone 6+)
 
